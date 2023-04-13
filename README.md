@@ -1,2 +1,2 @@
-# Second-Porfolio
-Second Porfolio page on react
+# Second-Portfolio
+Second Portfolio page on react
